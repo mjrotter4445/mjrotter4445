@@ -7,3 +7,5 @@ Thank you for visiting my GitHub page.
 - I also earned my M.S.S. Business Graduate degree from University of Denver, & my B.S. from Regis University, which prepared me to successfully manage many types of teams.  I have had the pleasure of participating on many multi-million dollar Real Estate investments Project Teams.  Completed a variety of New Construction, Design, & Operations projects for various Private, Public, and Government Owners.         
 - I am a lifelong learner and I want to incorporate more technology into my career path, so I’ve continued to develop my Data Analytics skills through my current daily coding work, classes, and personal projects so I can explore the amazing field of Data Analytics further. 
 
+### Languages and Platforms:
+
