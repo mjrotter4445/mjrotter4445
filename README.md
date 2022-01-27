@@ -30,7 +30,7 @@ BUSINESS INTELLIGENCE SOFTWARE
 Tableau Dashboard Creation & Geo Mapping
 
 LEADERSHIP
-Project Management, Team Managment and Leadership
+Project Management, Team Management and Leadership
  
 A little about me...
 -I am passionate about transforming data into stories, informative visuals, and useful tools for all stakeholders.
