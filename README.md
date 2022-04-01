@@ -2,6 +2,7 @@
 Thank you for visiting my GitHub page.   
 ###  A little about me...
 Data Analyst/Manager with a background in Business, Software Development, Computer Aided Design & Architecture and a passion for Sustainability & Green Construction Building Practices creating Healthy & Safe Work Environments.   I organize and focus organizations around their goals and mission so the teams can have maximum impact. 
+
 Recently acquired the following technical skills:  Excel| Excel/VBA| Python| SQL| Java Script | Tableau| GIS| Leaflet| HTML/CSS| R | Postgres| Flask| Heroku| Business Analytics, Visualization & Storytelling.  Proficient in CAD/CAFM.
 
 TECHNICAL and SOFTWARE SKILLS/PROGRAMMING LANGUAGES & TOOLS
