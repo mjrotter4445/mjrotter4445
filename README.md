@@ -6,10 +6,8 @@ Data Analyst/Manager with a background in Business, Software Development, Comput
 Recently acquired the following technical skills:  Excel| Excel/VBA| Python| SQL| Java Script | Tableau| GIS| Leaflet| HTML/CSS| R | Postgres| Flask| Heroku| Business Analytics, Visualization & Storytelling.  Proficient in CAD/CAFM.
 
 TECHNICAL and SOFTWARE SKILLS/PROGRAMMING LANGUAGES & TOOLS
-
 MACHINE LEARNING
 Natural Language Processing, Scikit-learn, PyTorch, Keras ,TensorFlow
-
 BIG DATA ANALYTICS
 Hadoop, PySpark, AWS, Google, Cloud, S3
 
