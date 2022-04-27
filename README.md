@@ -24,7 +24,7 @@ FRONT-END WEB VISUALIZATION
 HTML, CSS, Bootstrap, Dashboarding, JavaScript, Charting D3.js, Plotly, Geomapping, with Leaflet.js
 
 BUSINESS INTELLIGENCE SOFTWARE
-Tableau Dashboard Creation & Geo Mapping
+Tableau Dashboard Creation, Google Analytics, FM Systems Dashboards, Tririga Dashboards, Archibus Dashboards & Geo Mapping
 
 LEADERSHIP
 Project Management, Team Management and Leadership
